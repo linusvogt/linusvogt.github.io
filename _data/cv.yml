@@ -52,25 +52,25 @@
   type: time_table
   contents:
     - title: SO-CHIC general assembly 2024
-      year: October 2024
+      year: Oct 2024
       description: "Southern Ocean stratification & overturning circulation controls on ocean heat uptake efficiency."
     - title: Invited talk at MPI-M Hamburg
-      year: July 2024
+      year: Jul 2024
       description: "Understanding and constraining ocean heat uptake with climate models."
     - title: "European Geosciences Union (EGU) 2024"
       year: May 2024
       description: "Increased future ocean heat uptake constrained by Antarctic sea ice extent."
     - title: SO-CHIC general assembly 2023
-      year: October 2023
+      year: Oct 2023
       description: "Antarctic sea ice predicts ocean heat uptake in climate simulations."
     - title: SO-CHIC general assembly 2022
-      year: November 2022
+      year: Nov 2022
       description: "Stratification feedbacks on ocean heat uptake in CMIP6."
     - title: "European Geosciences Union (EGU) 2022"
       year: May 2022
       description: "Local Drivers of Marine Heatwaves: A Global Analysis With an Earth System Model"
     - title: "Ocean Sciences Meeting 2022"
-      year: February 2022
+      year: Feb 2022
       description: "Local Drivers of Marine Heatwaves: A Global Analysis With an Earth System Model"
 
 - title: Languages
