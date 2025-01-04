@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Defended my PhD! :tada:
+title: 
 date: 2024-12-06 14:00:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
-Defended my PhD on "the role of the upper ocean for global ocean heat uptake and climate".
-
-You can find the PhD thesis manuscript here: TODO
+Defended my PhD! Read the thesis manuscript <a href="#">here (TODO)</a>
