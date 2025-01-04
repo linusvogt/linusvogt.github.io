@@ -199,8 +199,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Vogt]
+  first_name: [Linus]
 
   style: apa
   locale: en
