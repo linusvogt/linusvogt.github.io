@@ -5,6 +5,8 @@
       value: Linus Vogt
     - name: Email
       value: linus.vogt@locean.ipsl.fr
+    - name: Office
+      value: "(TODO), 251 Mercer St, New York City, NY 10012"
 
 - title: Experience
   type: time_table
@@ -39,23 +41,44 @@
       description:
         - Minors in mathematics and computer science
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Research visits
+  type: time_table
+  contents:
+    - title: WHOI Guest Student
+      year: 2023
+      description: "Woods Hole Oceanographic Institution, USA. Host: Dr. Jens Terhaar"
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
+- title: Presentations
+  type: time_table
+  contents:
+    - title: SO-CHIC general assembly 2024
+      year: October 2024
+      description: "Southern Ocean stratification & overturning circulation controls on ocean heat uptake efficiency."
+    - title: Invited talk at MPI-M Hamburg
+      year: July 2024
+      description: "Understanding and constraining ocean heat uptake with climate models."
+    - title: "European Geosciences Union (EGU) 2024"
+      year: May 2024
+      description: "Increased future ocean heat uptake constrained by Antarctic sea ice extent."
+    - title: SO-CHIC general assembly 2023
+      year: October 2023
+      description: "Antarctic sea ice predicts ocean heat uptake in climate simulations."
+    - title: SO-CHIC general assembly 2022
+      year: November 2022
+      description: "Stratification feedbacks on ocean heat uptake in CMIP6."
+    - title: "European Geosciences Union (EGU) 2022"
+      year: May 2022
+      description: "Local Drivers of Marine Heatwaves: A Global Analysis With an Earth System Model"
+    - title: "Ocean Sciences Meeting 2022"
+      year: February 2022
+      description: "Local Drivers of Marine Heatwaves: A Global Analysis With an Earth System Model"
+
+- title: Languages
+  type: list
+  contents:
+    - German (native)
+    - English (fluent)
+    - French (fluent)
 
 # - title: Academic Interests
 #   type: nested_list
