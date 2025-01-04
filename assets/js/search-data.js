@@ -23,12 +23,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-",
-          title: '',
+        },{id: "news-defended-my-phd-read-the-thesis-manuscript-here-todo",
+          title: 'Defended my PhD! Read the thesis manuscript here (TODO)',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "news-starting-a-postdoc-position-at-nyu-courant-institute-in-prof-laure-zanna-s-research-group",
+          section: "News",},{id: "news-starting-a-postdoc-position-at-nyu-courant-institute-in-prof-laure-zanna-s-research-group",
           title: 'Starting a postdoc position at NYU Courant Institute in Prof. Laure Zanna’s research...',
           description: "",
           section: "News",},{
