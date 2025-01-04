@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Defended my PhD! :tada:
+date: 2024-12-06 14:00:00-0000
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+Defended my PhD on "the role of the upper ocean for global ocean heat uptake and climate".
+
+You can find the PhD thesis manuscript here: TODO
