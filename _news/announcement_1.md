@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Defended my PhD! :tada:
-date: 2024-12-06 14:00:00-0000
+date: 2024-12-06 14:00:00-0400
 inline: false
 related_posts: false
 ---
