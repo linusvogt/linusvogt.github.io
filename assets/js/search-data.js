@@ -28,12 +28,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-starting-a-postdoc-position-at-nyu-courant-institute-in-prof-laure-zanna-s-research-group",
+          title: 'Starting a postdoc position at NYU Courant Institute in Prof. Laure Zanna’s research...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
