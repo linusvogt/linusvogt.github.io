@@ -34,13 +34,6 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/linusvogt.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -48,11 +41,11 @@ ninja.data = [{
           window.open("mailto:%6C%69%6E%75%73.%76%6F%67%74@%6C%6F%63%65%61%6E.%69%70%73%6C.%66%72", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-bluesky',
+        title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/linusvogt", "_blank");
+          window.open("https://bsky.app/profile/linusvogt.bsky.social", "_blank");
         },
       },{
         id: 'social-scholar',
