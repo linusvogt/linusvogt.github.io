@@ -6,7 +6,7 @@
     - name: Email
       value: linus.vogt@locean.ipsl.fr
     - name: Office
-      value: "(TODO), 251 Mercer St, New York City, NY 10012"
+      value: "251 Mercer St, New York City, NY 10012"
 
 - title: Experience
   type: time_table
@@ -45,7 +45,7 @@
   type: time_table
   contents:
     - title: WHOI Guest Student
-      year: 2023
+      year: Mar - May 2023
       description: "Woods Hole Oceanographic Institution, USA. Host: Dr. Jens Terhaar"
 
 - title: Presentations
