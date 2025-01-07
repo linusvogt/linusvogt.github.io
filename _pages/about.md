@@ -9,7 +9,7 @@ profile:
   image: photo_navigo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>(office number)</p>
+    <!-- <p>(office number)</p> -->
     <p>251 Mercer St</p>
     <p>New York City, NY 10012</p>
 
