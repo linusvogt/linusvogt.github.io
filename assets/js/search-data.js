@@ -26,6 +26,9 @@ ninja.data = [{
         },{id: "news-defended-my-phd-read-the-thesis-manuscript-here-todo",
           title: 'Defended my PhD! Read the thesis manuscript here (TODO)',
           description: "",
+          section: "News",},{id: "news-our-paper-detecting-no-amoc-decline-since-the-1960s-was-published-in-nature-communications",
+          title: 'Our paper detecting no AMOC decline since the 1960s was published in Nature...',
+          description: "",
           section: "News",},{id: "news-starting-a-postdoc-position-at-nyu-courant-institute-in-prof-laure-zanna-s-research-group",
           title: 'Starting a postdoc position at NYU Courant Institute in Prof. Laure Zanna’s research...',
           description: "",
@@ -34,7 +37,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6C%69%6E%75%73.%76%6F%67%74@%6C%6F%63%65%61%6E.%69%70%73%6C.%66%72", "_blank");
+          window.open("mailto:%6C%69%6E%75%73.%76%6F%67%74@%6E%79%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-bluesky',
