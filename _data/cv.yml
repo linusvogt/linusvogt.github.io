@@ -51,6 +51,9 @@
 - title: Presentations
   type: time_table
   contents:
+    - title: "Invited online seminar at IIASA, Vienna"
+      year: Feb 2025
+      description: "Constraining past AMOC and future ocean heat uptake"
     - title: "SO-CHIC general assembly 2024, Paris"
       year: Oct 2024
       description: "Southern Ocean stratification & overturning circulation controls on ocean heat uptake efficiency."
