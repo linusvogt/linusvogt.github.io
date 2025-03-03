@@ -9,7 +9,7 @@ profile:
   image: photo_navigo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Courant Institute of Mathematical Sciences</p>
+    <p>Courant Institute</p>
     <p>New York University</p>
     <p>251 Mercer Street, Room 1125</p>
     <p>New York City, NY 10012</p>
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Associate in <a href="https://zanna-researchteam.github.io/">Laure Zanna's research group</a> at the <a href="https://cims.nyu.edu/dynamic/">Courant Institute for Mathematical Sciences</a> at New York University.
+I am a Postdoctoral Associate in <a href="https://zanna-researchteam.github.io/">Laure Zanna's research group</a> at the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> at New York University.
 As part of the <a href="https://inmos-obvi.github.io/team/">InMOS project</a>, my research is concerned with the uptake and storage of heat, carbon, and oxygen in the ocean (mostly using climate model simulations).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
