@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "news-defended-my-phd-read-the-thesis-manuscript-here",
-          title: 'Defended my PhD! Read the thesis manuscript here',
+          title: 'Defended my PhD! Read the thesis manuscript here.',
           description: "",
           section: "News",},{id: "news-our-paper-detecting-no-amoc-decline-since-the-1960s-was-published-in-nature-communications",
           title: 'Our paper detecting no AMOC decline since the 1960s was published in Nature...',
