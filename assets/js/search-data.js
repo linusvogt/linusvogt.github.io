@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-starting-a-postdoc-position-at-nyu-courant-institute-in-prof-laure-zanna-s-research-group",
           title: 'Starting a postdoc position at NYU Courant Institute in Prof. Laure Zanna’s research...',
           description: "",
+          section: "News",},{id: "news-our-paper-about-the-2023-2024-global-sea-surface-temperature-jump-was-published-in-nature",
+          title: 'Our paper about the 2023-2024 global sea surface temperature jump was published in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
