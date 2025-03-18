@@ -6,7 +6,7 @@
     - name: Email
       value: linus.vogt@nyu.edu
     - name: Office
-      value: "Room 1125, 251 Mercer St, New York City, NY 10012"
+      value: "251 Mercer St, New York City, NY 10012"
 
 - title: Experience
   type: time_table

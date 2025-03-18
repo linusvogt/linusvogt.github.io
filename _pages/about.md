@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Courant Institute</p>
     <p>New York University</p>
-    <p>251 Mercer Street, Room 1125</p>
+    <p>251 Mercer Street</p>
     <p>New York City, NY 10012</p>
 
 news: true # includes a list of news items
