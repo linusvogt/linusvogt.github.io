@@ -51,6 +51,9 @@
 - title: Presentations
   type: time_table
   contents:
+    - title: "NYU 2025 Climate Conference"
+      year: Apr 2025
+      description: "Constraining uncertainties in simulations from multiple climate models"
     - title: "Invited online seminar at IIASA, Vienna"
       year: Feb 2025
       description: "Constraining past AMOC and future ocean heat uptake"
