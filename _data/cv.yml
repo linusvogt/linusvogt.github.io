@@ -8,7 +8,7 @@
     - name: Office
       value: "251 Mercer St, New York City, NY 10012"
 
-- title: Experience
+- title: Professional experience
   type: time_table
   contents:
     - title: Postdoctoral Associate
@@ -51,6 +51,9 @@
 - title: Presentations
   type: time_table
   contents:
+    - title: "M²LInES annual meeting"
+      year: Jun 2025
+      description: "Constraining the ocean heat-carbon-oxygen nexus"
     - title: "NYU 2025 Climate Conference"
       year: Apr 2025
       description: "Constraining uncertainties in simulations from multiple climate models"
@@ -78,6 +81,13 @@
     - title: "Ocean Sciences Meeting 2022, online"
       year: Feb 2022
       description: "Local Drivers of Marine Heatwaves: A Global Analysis With an Earth System Model"
+
+- title: Peer review
+  type: list
+  contents:
+    - Global Biogeochemical Cycles (AGU)
+    - Communications Earth & Environment (Springer Nature)
+    - Environmental Research Communications (IOP)
 
 - title: Languages
   type: list
