@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-about-the-2023-2024-global-sea-surface-temperature-jump-was-published-in-nature",
           title: 'Our paper about the 2023-2024 global sea surface temperature jump was published in...',
           description: "",
+          section: "News",},{id: "news-our-paper-about-stratification-control-on-ocean-heat-uptake-efficiency-was-published-in-ocean-science",
+          title: 'Our paper about stratification control on ocean heat uptake efficiency was published in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
