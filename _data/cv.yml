@@ -48,6 +48,25 @@
       year: Mar - May 2023
       description: "Woods Hole Oceanographic Institution, USA. Host: Dr. Jens Terhaar"
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching assistant
+      year: 2020 - 2021
+      description: "Physics for medicine students (exercises and lab work)"
+    - title: Undergraduate internship supervision
+      year: 2025
+      description: "Cullen Slattery (Cornell University), co-supervised with Renaud Falga"
+
+- title: Peer review
+  type: list
+  contents:
+    - Global Biogeochemical Cycles (AGU)
+    - "Communications Earth & Environment (Springer Nature)"
+    - Ocean Science (EGU)
+    - Environmental Research Communications (IOP)
+    - Theoretical and Applied Climatology (Springer Nature)
+
 - title: Presentations
   type: time_table
   contents:
@@ -81,25 +100,6 @@
     - title: "Ocean Sciences Meeting 2022, online"
       year: Feb 2022
       description: "Local Drivers of Marine Heatwaves: A Global Analysis With an Earth System Model"
-
-- title: Peer review
-  type: list
-  contents:
-    - Global Biogeochemical Cycles (AGU)
-    - "Communications Earth & Environment (Springer Nature)"
-    - Ocean Science (EGU)
-    - Environmental Research Communications (IOP)
-    - Theoretical and Applied Climatology (Springer Nature)
-
-- title: Teaching
-  type: time_table
-  contents:
-    - title: Teaching assistant
-      year: 2020 - 2021
-      description: "Physics for medicine students (exercises and lab work)"
-    - title: Undergraduate internship supervision
-      year: 2025
-      description: "Cullen Slattery (Cornell University), co-supervised with Renaud Falga"
 
 - title: Languages
   type: list
