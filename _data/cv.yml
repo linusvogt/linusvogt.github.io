@@ -51,12 +51,12 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Teaching assistant
-      year: 2020 - 2021
-      description: "Physics for medicine students (exercises and lab work)"
     - title: Undergraduate internship supervision
       year: 2025
       description: "Cullen Slattery (Cornell University), co-supervised with Renaud Falga"
+    - title: Teaching assistant
+      year: 2020 - 2021
+      description: "Physics for medicine students (exercises and lab work)"
 
 - title: Peer review
   type: list
