@@ -38,6 +38,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-about-stratification-control-on-ocean-heat-uptake-efficiency-was-published-in-ocean-science",
           title: 'Our paper about stratification control on ocean heat uptake efficiency was published in...',
           description: "",
+          section: "News",},{id: "news-our-emergent-constraint-on-future-ocean-heat-uptake-was-finally-published-in-earth-system-dynamics",
+          title: 'Our emergent constraint on future ocean heat uptake was finally published in Earth...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
