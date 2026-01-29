@@ -58,13 +58,13 @@
       year: 2020 - 2021
       description: "Physics for medicine students (exercises and lab work)"
 
-# # TODO: add AGU Advances and increase to 16
 - title: Peer review
   type: list
   contents:
-    - "15 reviews since 2025 for the following journals:"
+    - "16 reviews since 2025 for the following journals:"
     - Nature
     - Nature Communications
+    - AGU Advances
     - Geophysical Research Letters (AGU)
     - Ocean Science (EGU)
     - "Journal of Geophysical Research: Oceans (AGU)"
