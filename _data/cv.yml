@@ -61,14 +61,14 @@
 - title: Peer review
   type: list
   contents:
-    - "17 reviews since 2025 for the following journals:"
+    - "18 reviews since 2025 for the following journals:"
     - Nature
     - Nature Communications
     - AGU Advances
     - Geophysical Research Letters (AGU)
-    - Ocean Science (EGU)
     - "Journal of Geophysical Research: Oceans (AGU)"
     - Global Biogeochemical Cycles (AGU)
+    - Ocean Science (EGU)
     - "Communications Earth & Environment (Springer Nature)"
     - Environmental Research Communications (IOP)
     - npj Climate and Atmospheric Science
