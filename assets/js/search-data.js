@@ -23,7 +23,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-defended-my-phd-read-the-thesis-manuscript-here",
+        },{id: "news-defended-my-phd-at-sorbonne-university-read-the-thesis-here",
+          title: 'Defended my PhD at Sorbonne University, read the thesis here!',
+          description: "",
+          section: "News",},{id: "news-defended-my-phd-read-the-thesis-manuscript-here",
           title: 'Defended my PhD! Read the thesis manuscript here.',
           description: "",
           section: "News",},{id: "news-our-paper-detecting-no-amoc-decline-since-the-1960s-was-published-in-nature-communications",
@@ -40,6 +43,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-emergent-constraint-on-future-ocean-heat-uptake-was-finally-published-in-earth-system-dynamics",
           title: 'Our emergent constraint on future ocean heat uptake was finally published in Earth...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-on-arxiv-on-diffusion-models-for-ocean-oxygen-fields",
+          title: 'New preprint on arXiv on diffusion models for ocean oxygen fields.',
           description: "",
           section: "News",},{
         id: 'social-email',
